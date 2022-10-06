@@ -34,4 +34,4 @@ For play again or end the game:
 
 You can play the game dorectly in your Web browser
 
-[<img alt="Play Button" src="https://user-images.githubusercontent.com/112724499/194333508-c29d77c9-0b98-4a93-8426-c506a685d9e6.png" />](https://replit.com/@sawyer8604/RockPaperScissors-Game-by-Mustafa-2#Main.cs)
+[<img alt="Play Button />](https://replit.com/@sawyer8604/RockPaperScissors-Game-by-Mustafa-2#Main.cs)
