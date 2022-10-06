@@ -29,7 +29,7 @@ For play again or end the game:
 ![image](https://user-images.githubusercontent.com/112724499/194327199-a8c60f7e-b722-42ab-ace2-f6f55f9d9338.png)
 ![image](https://user-images.githubusercontent.com/112724499/194327301-8c596408-17d6-4f81-bdc7-a1c389905093.png)
 
-# Live demo!
+# Live demo
 
 
 You can play the game dorectly in your Web browser
