@@ -1,7 +1,7 @@
 # Rock_Paper_Scissors_By-Mustafa
 ## This is a simple console"Rock_Paper_Scissors"
 
-<img alt="Iimage" width = "200px" src="rock-paper-scissors.jpg"/>
+<img alt="Iimage" width = "200px" src="RockPaperScissors.jpg"/>
 
 A simlpe two player game, where you and your oponent(the computer) choose one the  following three options:
 "rock", "paper" ot "scissors". The rule as follows:
